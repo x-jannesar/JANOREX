@@ -1,6 +1,6 @@
 # JANORÉX — RJ Olfactory Atelier
 
-Official concept website for a premium scent identity design studio associated with Reyhaneh Jannesaar.
+Official concept website for a premium scent identity design studio associated with ریحانه عطار جاننثار نوبری (معروف به ریحانه جان‌نثار).
 
 ## Scope
 
