@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://x-jannesar.github.io/JANOREX/sitemap.xml
